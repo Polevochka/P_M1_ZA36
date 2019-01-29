@@ -11,5 +11,5 @@
 ![Image alt](https://github.com/Polevochka/P_ZA_36/raw/master/img/p1.png)
 ##### Победитель Гришко, так как у него лучший результат
 ![Image alt](https://github.com/Polevochka/P_ZA_36/raw/master/img/p2.png)
-##### Пример с вещественными числами, Обыма выгралл, так как у Путина было слишком много попыток
+##### Пример с вещественными числами, Обэма выгралл, так как у Путина было слишком много попыток
 ![Image alt](https://github.com/Polevochka/P_ZA_36/raw/master/img/p3.png)
